@@ -1,0 +1,39 @@
+
+/* Thay đổi thuộc tính của bootstrap */
+
+.menu-top{
+    background-color: rgba(3, 12, 95, 0.781);
+}
+
+.row_fix{
+    background-color: #cccccc;
+    margin: 10px 0;
+    padding: 0;
+}
+
+
+a{
+    color: #ffffff !important;
+}
+
+.fix_col{
+    border-left: 1px solid;
+}
+
+.footer{
+    background-color: rgb(171, 179, 248) !important;
+
+}
+.bg-color{
+    background-color: rgb(171, 179, 248)!important;
+    border: none;
+}
+
+.img-fix{
+    height: 100px;
+    width: 100px;
+}
+
+.bg-btn{
+    background-color: #ffffff;
+}
